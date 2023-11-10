@@ -1,0 +1,179 @@
+p{
+  font-family:Montserrat;
+
+}
+
+.lesson6{
+  color:black;
+  font-size:40px;
+  font-weight: bold;
+  margin-left: 75px;
+
+}
+.lesson6i{
+  color:black;
+  font-size:20px;
+
+}
+
+/* 7A , 7B , 7C */
+.cat-img{
+  width:250px;
+  border-radius: 20px;
+  
+}
+.cat-img1{
+  width:200px;
+  height:230px;
+  object-position: center;
+  margin-left: 50px;
+  object-fit:cover;
+  
+
+}
+
+.cat-img2{
+  width:200px;
+  height: 230px;
+  margin-left: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+
+}
+
+/* 7D 7E 7F 7G */
+
+.less7d{
+  width:100px;
+  border-radius: 5px;
+  border-width: 0.5px;
+  margin-bottom: 80px;
+  
+}
+
+
+.less7e{
+  font-size: 15px;
+  width:400px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  border:none;
+
+  
+
+}
+.less7fi{
+  margin-top: 40px;
+  color:gray;
+  margin-bottom: 5px;
+}
+.less7fii{
+  width:320px;
+  border-radius:5px;
+  border-width: 1.5px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  
+}
+.less7fiii{
+  color:grey;
+  font-size:11px;
+  font-weight: bold;
+}
+.less7fiv{
+  background-color: rgb(40, 91, 173);
+  width:340px;
+  border:none;
+  padding-top: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 13px;
+  border-radius:25px;
+  color:white;
+
+  margin-bottom: 100px;
+  
+}
+
+
+
+
+
+
+
+.less7g{
+  width:200px;
+  height: 180px;
+  margin-left: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 5px;
+
+}
+
+.less7gi{
+  color:grey;
+  vertical-align: middle;
+  font-size: 20px;
+  vertical-align: middle;
+  margin-left: 10px;
+  border:none;
+}
+  
+.less7gii{
+  background-color: rgb(30, 141, 233);
+  color:white;
+  vertical-align: middle;
+  width:100px;
+
+  padding-top: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 13px;
+  border:none;
+  border-radius: 20px;
+  font-size:20px;
+  font-weight: bold;
+  vertical-align: middle;
+  margin-left: 30px;
+  margin-bottom: 100px;
+}
+
+.less8a,.less8ai{
+  display: block;
+  margin-bottom: 10px;
+
+}
+
+.less8b{
+  display:inline-block;
+  width:250px;
+  vertical-align: middle;
+}
+
+.google{
+  width:200px;
+  display:block;
+  margin-bottom: 10px;
+  margin-left: 150px;
+}
+
+.less8c{
+  font-size: 15px;
+  width:500px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  
+  border:none;
+}
